@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.dark_style" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorSecondaryDark</item>
+        <item name="android:textColor">@color/textColorDark</item>
+        <item name="background">@color/colorBgDark</item>
+<!--        <item name="buttonStyle">@color/colorSecondary</item>-->
+    </style>
+</resources>

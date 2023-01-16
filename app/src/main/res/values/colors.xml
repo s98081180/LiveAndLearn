@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B6181</color>
+    <color name="colorSecondary">#FAD689</color>
+    <color name="colorSecondaryLight">#FDF2DB</color>
+    <color name="textColor">#74673E</color>
+    <color name="textBgPrimary">#FFFFFFFF</color>
+
+    <color name="colorBgDark">#1E1E1E</color>
+    <color name="colorPrimaryDark">#3B6181</color>
+    <color name="colorSecondaryDark">#C5D7E5</color>
+    <color name="colorSecondaryLightDark">#5E8EB6</color>
+    <color name="textColorDark">#E5EDF3</color>
+    <color name="textBgPrimaryDark">#FFFFFFFF</color>
+
+    <color name="transparent">#00000000</color> <!--透明-->
+</resources>
